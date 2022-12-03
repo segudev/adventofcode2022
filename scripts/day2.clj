@@ -1,7 +1,7 @@
 (ns day2
   (:require [clojure.string :as s]))
 
-(println "Day 2 :")
+(println "Day 2:")
 
 (def input (slurp "inputs/input2.txt"))
 
